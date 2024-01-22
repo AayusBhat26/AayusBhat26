@@ -40,15 +40,7 @@
 </div>
 
 <br/>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  ![snake animation](https://github.com/<AayusBhat26>/<AayusBhat26>/blob/output/github-contribution-grid-snake2.svg)
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
