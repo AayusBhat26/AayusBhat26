@@ -48,7 +48,8 @@
 <br>
 <div align=center>
   <img  src="https://github-readme-streak-stats-salesp07.vercel.app?user=AayusBhat26&theme=tokyonight&hide_border=false&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="streak stats"/>
-<!--   &nbsp; &nbsp; &nbsp; -->
+<!--   &nbsp; &nbsp;  -->
+    &nbsp;
   <img  src="https://github-readme-stats.vercel.app/api?username=AayusBhat26&count_private=false&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&card_widht=400" alt="readme stats" />
   <br/>
   <br/>
