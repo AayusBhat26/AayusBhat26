@@ -11,18 +11,16 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **PROD**
+ 🔭 I’m currently working on **Workify - Web Application with Sentimental Analysis**
  
- 🌱 I’m currently learning **Next JS,Mongo DB, JavaScript**
-
-💬 Ask me about **Node.js, React, Next JS 14... or anything [here](https://github.com/AayusBhat26/issues)**
+ 🌱 I’m currently working with **Next JS, React JS,Postgres sql, JavaScript, Typescript**
 
 ⚡ Fun fact **Everything is Predictable**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:kumarbhataayush@gmail.com">
+  <a href="mailto:naayush448@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/aayush-kumar-bhat-/" target="_blank">
