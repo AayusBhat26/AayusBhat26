@@ -5,13 +5,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayush+Kumar+Bhat!;" />
 </h1>
 
-<h3 align="center">A JavaScript Developer from India </h3>
+<h3 align="center">Asprining Software Developer from India </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Workify - Web Application with Sentimental Analysis**
+ 🔭 I’m currently working on **TaskFlow - Web Application with Sentimental Analysis**
  
  🌱 I’m currently working with **Next JS, React JS,Postgres sql, JavaScript, Typescript**
 
