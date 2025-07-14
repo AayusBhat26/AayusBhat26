@@ -1,62 +1,43 @@
-# A4rKB
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AayusBhat26"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AayusBhat26&left_color=blue&right_color=green" alt="Profile views"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayush+Kumar+Bhat!;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I'm+Aayush+Kumar+Bhat!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Asprining Software Developer from India </h3>
+<h3 align="center">Aspiring Software Developer from India</h3>
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **TaskFlow - Web Application with Sentimental Analysis**
- 
- 🌱 I’m currently working with **Next JS, React JS,Postgres sql, JavaScript, Typescript**
+<div align="center"> 
+  🔭 Currently building **TaskFlow - Web Application with Sentimental Analysis**<br>
+  🌱 Working with **Next.js, React, PostgreSQL, TypeScript**<br>
+  ⚡ Fun fact: **Everything is Predictable**
+</div>
 
-⚡ Fun fact **Everything is Predictable**
-
- </div>
- 
 <div align="center"> 
   <a href="mailto:naayush448@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aayush-kumar-bhat-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<hr/>
+
+<h2 align="center">🛠️ Tech Stack 🛠️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,cpp,java,nextjs,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,html,css,tailwind,mui,express,firebase,mongodb,mysql,postgres" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,git,github,vscode,figma" />
 </div>
-
-<br/>
-
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img  src="https://github-readme-streak-stats-salesp07.vercel.app?user=AayusBhat26&theme=tokyonight&hide_border=false&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="streak stats"/>
-<!--   &nbsp; &nbsp;  -->
-    &nbsp;
-  <img  src="https://github-readme-stats.vercel.app/api?username=AayusBhat26&count_private=false&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&card_widht=400" alt="readme stats" />
-  <br/>
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AayusBhat26&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AayusBhat26&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AayusBhat26&theme=tokyonight&hide_border=true&border_radius=10" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayusBhat26&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" />
 </div>
-
-<br/><br/>
-
-<hr/>
-
-
-<br/>
